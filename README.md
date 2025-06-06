@@ -9,7 +9,8 @@ Hetal Kumbharana - 670207
 - `etl_extract.ipynb`: Jupyter Notebook that includes simulating synthetic data, Full and Incremental Extraction.
 - `last_extraction.txt`: Stores the latest extraction date and time.
 - `mitai_sales_data.csv`: Simulated synthetic data.
-- 
+- `initial_last_extraction_date.png`: Screenshot showing the *initial* last extraction date.
+- `updated_last_extraction_date.pdg`: Screenshot showing the *updated* last extraction date.
 
 ### Description of what the notebook `etl_extract.ipynb` does:
 
