@@ -4,8 +4,6 @@
 
 This project carries out Full and Incremental Extraction for an Indian Sweet Shop's dataset `mitai_sales_data`, applies useful transformations, and loads it into a structured format.
 
-Hetal Kumbharana - 670207
-
 ### 2. Contents
 
 - `etl_extract.ipynb`: Jupyter Notebook that includes simulating synthetic data, Full and Incremental Extraction, transforming the full data and the incremental data.
@@ -44,3 +42,5 @@ Python, Pandas, Jupyter Notebook, PyArrow.
 - Verify the outputs by checking 'loaded_data/' folders.
 
 - *Where does the data come from?* The data is simulated in Python to generate mitai sales for an Indian Sweet Shop.
+
+Hetal Kumbharana 
