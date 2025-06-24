@@ -41,6 +41,8 @@ Python, Pandas, Jupyter Notebook, PyArrow.
 - Follow the notebooks in order (`etl_extract.ipynb` -> `etl_load.ipynb`)
 - Verify the outputs by checking 'loaded_data/' folders.
 
-- *Where does the data come from?* The data is simulated in Python to generate mitai sales for an Indian Sweet Shop.
+### 6. Where does the data come from?
+
+ The data is simulated in Python to generate mitai sales for an Indian Sweet Shop.
 
 Hetal Kumbharana 
